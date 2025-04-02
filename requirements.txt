@@ -1,0 +1,2 @@
+notebook==7.3.3
+tabulate #Para mostrar la tabla de los resultados

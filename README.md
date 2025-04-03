@@ -32,3 +32,5 @@ requirements.txt
 Ejecutar el programa:  
    se debe usar el comando jupyter notebook para poder ejecutar las celdas
    El programa procesará las rondas de juego y mostrará los resultados acumulados y el ranking final.  
+   
+   En mi caso lo ejecute desde el vsc y no tuve problemas con la importacion.  

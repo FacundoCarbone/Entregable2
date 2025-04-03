@@ -4,7 +4,7 @@ Requisitos Previos: tener instalado python:
    Verificar con python --version
 
 Clonar el repositorio o descargar los archivos:  
-https://github.com/FacundoCarbone/Entregable2  
+git clone https://github.com/FacundoCarbone/Entregable2  
   cd Entregable2  
 
 Crear un entorno virtual:
@@ -30,4 +30,5 @@ README.md
 requirements.txt  
 
 Ejecutar el programa:  
+   se debe usar el comando jupyter notebook para poder ejecutar las celdas
    El programa procesará las rondas de juego y mostrará los resultados acumulados y el ranking final.  

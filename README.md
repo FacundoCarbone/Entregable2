@@ -5,7 +5,7 @@ Requisitos Previos: tener instalado python:
 
 Clonar el repositorio o descargar los archivos:  
 https://github.com/FacundoCarbone/Entregable2
-cd Entregable2  
+  cd Entregable2  
 
 Crear un entorno virtual:
    python -m venv venv

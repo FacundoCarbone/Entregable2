@@ -4,7 +4,7 @@ Requisitos Previos: tener instalado python:
    Verificar con python --version
 
 Clonar el repositorio o descargar los archivos:  
-https://github.com/FacundoCarbone/Entregable2
+https://github.com/FacundoCarbone/Entregable2  
   cd Entregable2  
 
 Crear un entorno virtual:

@@ -3,7 +3,9 @@ Objetivo:Crear un programa que procese rondas de un juego e imprima la tabla de 
 Requisitos Previos: tener instalado python:
    Verificar con python --version
 
-Clonar el repositorio o descargar los archivos
+Clonar el repositorio o descargar los archivos:  
+https://github.com/FacundoCarbone/Entregable2
+cd Entregable2  
 
 Crear un entorno virtual:
    python -m venv venv
